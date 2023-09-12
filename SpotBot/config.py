@@ -5,7 +5,7 @@ class Configs(object):
     CLIENT_ID = 'a697d56774d040c587d0adbbcd07e965'  # Spotify Client ID
     CLIENT_SECRET = '6253234360ab4f47866c709509284425'  # Spotify Client Secret
     BOT_NAME = 'SpotSave'  # Bot Title Ex: SpotSave
-    BOT_UNAME = 'spotsavebot'  # Bot Username without @
+    BOT_UNAME = 'Heirhybot'  # Bot Username without @
     OWNER = '@EMPERORns'  # Developer/Owner @username
     CHANNEL = 'psycobotz'  # Channel Username without @
     CHANNEL_URL = 'https://t.me/psycobotz'  # Channel link https://t.me/ic_mods
